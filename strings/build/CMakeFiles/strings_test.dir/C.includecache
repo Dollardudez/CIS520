@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ch1ndra/Desktop/OneDrive_1_1-13-2022/a2_c_refresher/strings/include/sstring.h
+stdbool.h
+-
+
+/home/ch1ndra/Desktop/OneDrive_1_1-13-2022/a2_c_refresher/strings/src/sstring.c
+string.h
+-
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+../include/sstring.h
+/home/ch1ndra/Desktop/OneDrive_1_1-13-2022/a2_c_refresher/strings/include/sstring.h
+

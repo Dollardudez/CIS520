@@ -1,0 +1,4 @@
+/home/ch1ndra/Desktop/OneDrive_1_1-13-2022/a2_c_refresher/strings/build/CMakeFiles/rebuild_cache.dir
+/home/ch1ndra/Desktop/OneDrive_1_1-13-2022/a2_c_refresher/strings/build/CMakeFiles/edit_cache.dir
+/home/ch1ndra/Desktop/OneDrive_1_1-13-2022/a2_c_refresher/strings/build/CMakeFiles/test.dir
+/home/ch1ndra/Desktop/OneDrive_1_1-13-2022/a2_c_refresher/strings/build/CMakeFiles/strings_test.dir
